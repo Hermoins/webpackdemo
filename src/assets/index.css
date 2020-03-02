@@ -1,0 +1,7 @@
+body div {
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 80px;
+    background-color: aqua;
+}
